@@ -1,4 +1,4 @@
-# Bolt Gym Web App
+# Gym Web App
 
 A modern, responsive gym website built with Next.js, React, Tailwind CSS, and Framer Motion.  
 Showcases gym programs, testimonials, and more with smooth animations and a mobile-friendly design.
